@@ -12,4 +12,4 @@ Tenho forte interesse com a área de dados e com e-sports, um sonho pessoal seri
 Desde pequeno tenho paixão por jogos, comecei a jogar cedo, e assim que descobri minha paixão por dados, tenho buscado encontrar maneiras de juntar esses dois universos em um só, onde tenho mantido foco no BI, acredito que Dashboards podem comunicar de maneira simples o que os dados querem dizer.
 
 ## Estudos
-No momento meu foco está sendo em fundamentos sobre AD e BI, iniciando um projeto sobre estatísticas voltado ao League of Legends.
+No momento meu foco está sendo em fundamentos sobre AD e BI, iniciando um projeto para controle de contas do League of Legends.
